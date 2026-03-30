@@ -137,7 +137,7 @@ cd walmart-customer-segmentation
 jupyter notebook Walmart_Customer_Segmentation.ipynb
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
