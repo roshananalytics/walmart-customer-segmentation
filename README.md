@@ -132,7 +132,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ### Run the Notebook
 
 ```bash
-git clone https://github.com/your-username/walmart-customer-segmentation.git
+git clone https://github.com/roshananalytics/walmart-customer-segmentation.git
 cd walmart-customer-segmentation
 jupyter notebook Walmart_Customer_Segmentation.ipynb
 ```
